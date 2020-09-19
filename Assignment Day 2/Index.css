@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+}
+
+body{
+	background-image:url('2.png');
+	background-size: cover;
+
+}
+
+.header{
+	width: 100%;
+	background-color: rgba(0,0,0,.2);
+}
+
+.header ul{
+	text-align: right;
+}
+
+.header ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.header ul li a{
+	display: block;
+	text-decoration: underline dotted;
+	color: #fff;
+	font-style: italic;
+	font-size: 20px;
+	font-family: 'Poppins';
+	letter-spacing: 2px;
+	font-weight: bold;
+	padding: 25px;
+	transition: all ease 0.5s;
+}
+
+.header ul li a:hover{
+	background-color: #DAA520;
+}

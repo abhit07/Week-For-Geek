@@ -1,0 +1,23 @@
+.content{
+	float: left;
+	width:1000px; 
+   	height: 740px;
+	background-image:url('Website Creation Mind Map.png');
+	background-repeat: no-repeat;
+}
+
+.block{
+	float: left;
+	margin-left: 3px;
+	margin-top: 520px;
+	border-radius: 25px;
+  	background: #696969;
+  	width: 400px;
+  	height: 200px;
+}
+
+.btn{
+	float: right;
+	margin-right: 0px;
+	margin-top: 710px;
+}
