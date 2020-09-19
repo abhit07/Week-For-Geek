@@ -1,0 +1,32 @@
+* {margin: 20px; padding: 10px; }
+body{
+    background-color: black;
+}
+table { background-color: white;
+    border-collapse: collapse; border-spacing: 0; }
+
+#dashboard { padding: 0px; margin: 0 auto; margin-top: 25px; }
+#dashboard tr td { width: 80px; height: 80px; border: 1px solid #1c1c1c; 
+							 font-family: Helvetica; text-align: center; font-size: 30px; }
+#dashboard tr td:hover { background:#D3D3D3; cursor: pointer; }
+
+.caption{
+    color: white;
+    font-weight:bolder;
+    font-size: x-large;
+}
+
+.div{
+    margin-left: 300px;
+    background-color: grey;
+    width: 1000px;
+    height: 600px;
+}
+#btn{
+    margin-left: 345px;
+    width: 310px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    background-color: black;
+}
