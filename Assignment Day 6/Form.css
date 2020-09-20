@@ -1,0 +1,18 @@
+body{
+    padding: 30px 0px 30px 0px;
+}
+
+fieldset{
+    background-color: blanchedalmond;
+}
+legend{
+    font-weight: bolder;
+    color: red;
+}
+b{
+color:#FF0000;
+}
+
+i{
+font-weight: bold;
+}
